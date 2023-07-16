@@ -1,3 +1,3 @@
 # SeoJunHa TIL
 
-<center> SSAFY </center>
+</center> SSAFY </center>
