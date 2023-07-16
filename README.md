@@ -1,5 +1,5 @@
 # SeoJunHa TIL
 
-<center> SSAFY 10th Prologue
+</center>SSAFY 10th Prologue
 
-<center> 1주차
+</center>1주차
