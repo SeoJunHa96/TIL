@@ -1,9 +1,9 @@
 <div align = "center">
  
- # <center>**SJH TIL**</center>
+ # **SJH TIL**
 
  ### Prologue 
 
- #### <center> 7.14 (가장 주된 내용)
+ #### 7.14 (가장 주된 내용)
 
-<d/div>
+</div>
