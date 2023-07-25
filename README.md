@@ -13,4 +13,5 @@
 
 
  #### [7.24 (메서드)](https://github.com/SeoJunHa96/TIL/blob/main/Document/7.24.md)
+ #### [7.25 (비 시퀀스 메서드)](https://github.com/SeoJunHa96/TIL/blob/main/Document/7.25.md)
 </div>
