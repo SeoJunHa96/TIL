@@ -36,6 +36,6 @@
 #### [8.23 (비트 연산자, 보수)](https://github.com/SeoJunHa96/TIL/blob/main/Document/8.23%20%EB%B9%84%ED%8A%B8%20%EC%97%B0%EC%82%B0%EC%9E%90%2C%20%EB%B3%B4%EC%88%98.md)          <br/><br/><br/> 
 
 
-#### [8.29 (논리)]()
+#### [8.29 (논리)](https://github.com/SeoJunHa96/TIL/blob/main/Document/8.29%20%EB%85%BC%EB%A6%AC.md)
 
 </div>
