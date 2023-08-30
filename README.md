@@ -37,5 +37,6 @@
 
 
 #### [8.29 (논리)](https://github.com/SeoJunHa96/TIL/blob/main/Document/8.29%20%EB%85%BC%EB%A6%AC.md)
+#### [8.30 (순열, 부분집합)](https://github.com/SeoJunHa96/TIL/blob/main/Document/8.30%20%EC%99%84%EC%A0%84%EA%B2%80%EC%83%89%2C%20%EC%88%9C%EC%97%B4%2C%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.md)
 
 </div>
