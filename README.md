@@ -43,7 +43,8 @@
 
 #### [9.4 (HTML, CSS)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.4%20HTML%20CSS.md)
 #### [9.5 (CSS 레이아웃)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.5%20CSS%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.md)
-
+#### [9.6 (Bootstrap)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.6%20Bootstrap.md)
+#### [(CSS 정렬)]()
 
 
 </div>
