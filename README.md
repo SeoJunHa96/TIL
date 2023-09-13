@@ -50,6 +50,6 @@
 
 
 #### [9.12(Django)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.12%20Django.md)
-
+#### [9.13(Django Template & URLs)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.13%20Django%20Template%20%26%20URLs.md)
 
 </div>
