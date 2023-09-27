@@ -58,6 +58,7 @@
 #### [9.14(Django Model)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.14%20Django%20Model.md)
 #### [9.15(ORM)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.15%20ORM.md)
 #### [9.25(ORM with view)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.25%20Django%20ORM%20with%20view.md)
-
+#### [9.26(Django form)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.26%20Django%20Form.md)
+#### [9.27(Django Static files)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.27%20Django%20Static%20files.md)
 
 </div>
