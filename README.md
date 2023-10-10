@@ -61,5 +61,6 @@
 #### [9.26(Django form)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.26%20Django%20Form.md)
 #### [9.27(Django Static files)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.27%20Django%20Static%20files.md)
 #### [10.4(Cookie & session)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.4%20Django%20Authentication%20System.md)
+#### [10.5(회원 가입&관리)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.5%20%ED%9A%8C%EC%9B%90%20%EA%B0%80%EC%9E%85.md)
 
 </div>
