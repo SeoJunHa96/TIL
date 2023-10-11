@@ -62,5 +62,10 @@
 #### [9.27(Django Static files)](https://github.com/SeoJunHa96/TIL/blob/main/Document/9.27%20Django%20Static%20files.md)
 #### [10.4(Cookie & session)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.4%20Django%20Authentication%20System.md)
 #### [10.5(회원 가입&관리)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.5%20%ED%9A%8C%EC%9B%90%20%EA%B0%80%EC%9E%85.md)
+<br/><br/><br/> 
+
+
+#### [10.10(SQL)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.10%20SQL.md)
+#### [10.11(N:1(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.11%20N1%20(1).md)
 
 </div>
