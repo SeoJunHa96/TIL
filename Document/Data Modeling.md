@@ -43,14 +43,14 @@
 
   - Optionality : 필수, 선택
 
-  - </dr>
-    ![](https://github.com/SeoJunHa96/TIL/blob/main/Document/ERD-R.png)
-
-    직선 : 각 회원은 글 하나만 쓸 수 있으며, 각 글의 저자는 한 명 뿐이다.
+  - 직선 : 각 회원은 글 하나만 쓸 수 있으며, 각 글의 저자는 한 명 뿐이다.
 
     3줄 : 각 글의 저자는 1명 뿐이지만, 각 회원은 글을 여러 개 쓸 수 있다.
 
     수직선과 동그라미 : 각 글에는 반드시 회원이 있지만, 회원은 글을 안쓸수도 있다.
+
+    ![](https://github.com/SeoJunHa96/TIL/blob/main/Document/ERD-R.png)
+
 
     
 
