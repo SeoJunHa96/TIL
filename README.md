@@ -66,6 +66,6 @@
 
 #### [10.10(SQL)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.10%20SQL.md)
 #### [10.11(N:1(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.11%20N1%20(1).md)
-#### [10.12(N:1(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.12%20N1(2).md)
+#### [10.12(N:1(2))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.12%20N1(2).md)
 #### [DATA MODELING](https://github.com/SeoJunHa96/TIL/blob/main/Document/Data%20Modeling.md)
 </div>
