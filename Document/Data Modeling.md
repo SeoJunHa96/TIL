@@ -43,7 +43,7 @@
 
   - Optionality : 필수, 선택
 
-  -
+  - </dr>
     ![](https://github.com/SeoJunHa96/TIL/blob/main/Document/ERD-R.png)
 
     직선 : 각 회원은 글 하나만 쓸 수 있으며, 각 글의 저자는 한 명 뿐이다.
