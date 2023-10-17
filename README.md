@@ -69,4 +69,5 @@
 #### [10.12(N:1(2))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.12%20N1(2).md)
 #### [DATA MODELING](https://github.com/SeoJunHa96/TIL/blob/main/Document/Data%20Modeling.md)
 #### [10.16(N:M(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.16%20NM(1).md)
+#### [10.17(N:M(2))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.17%20NM(2).md)
 </div>
