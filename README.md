@@ -70,4 +70,6 @@
 #### [DATA MODELING](https://github.com/SeoJunHa96/TIL/blob/main/Document/Data%20Modeling.md)
 #### [10.16(N:M(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.16%20NM(1).md)
 #### [10.17(N:M(2))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.17%20NM(2).md)
+#### [10.18(Django REST framework 1)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.18%20Django%20REST%20framework%201.md)
+#### [10.19(Django REST framework 2)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.19%20Django%20REST%20framework%202.md)
 </div>
