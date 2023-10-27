@@ -76,5 +76,5 @@
 #### [10.23(JavaScript and DOM)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.23%20JavaScript%20and%20DOM.md)
 #### [10.24(Basic syntax of JavaScript)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.24%20Basic%20syntax%20of%20JavaScript.md)
 #### [10.25(JavaScript Reference Data Types)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.24%20Basic%20syntax%20of%20JavaScript.md)
-#### [10.26(Event)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.25%20JavaScript%20Reference%20Data%20Types.md)
+#### [10.26(Event)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.26%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 </div>
