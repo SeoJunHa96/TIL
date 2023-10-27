@@ -71,5 +71,10 @@
 #### [10.16(N:M(1))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.16%20NM(1).md)
 #### [10.17(N:M(2))](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.17%20NM(2).md)
 #### [10.18(Django REST framework 1)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.18%20Django%20REST%20framework%201.md)
-#### [10.19(Django REST framework 2)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.19%20Django%20REST%20framework%202.md)
+#### [10.19(Django REST framework 2)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.19%20Django%20REST%20framework%202.md)  <br/><br/><br/> 
+
+#### [10.23(JavaScript and DOM)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.23%20JavaScript%20and%20DOM.md)
+#### [10.24(Basic syntax of JavaScript)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.24%20Basic%20syntax%20of%20JavaScript.md)
+#### [10.25(JavaScript Reference Data Types)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.24%20Basic%20syntax%20of%20JavaScript.md)
+#### [10.26(Event)](https://github.com/SeoJunHa96/TIL/blob/main/Document/10.25%20JavaScript%20Reference%20Data%20Types.md)
 </div>
